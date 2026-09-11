@@ -2,6 +2,17 @@
 
 A simple full-stack notes app where users can register, log in, and manage their own notes (create, edit, delete).
 
+## Screenshots
+
+**Login**
+![Login Page](login.png)
+
+**Register**
+![Register Page](register.png)
+
+**Notes Dashboard**
+![Notes Dashboard](dashboard.png)
+
 ## Tech Stack
 
 - **Frontend:** React
@@ -57,3 +68,10 @@ Frontend runs on `http://localhost:5173`
 | PUT | /api/notes/:id | Update a note |
 | DELETE | /api/notes/:id | Delete a note |
 
+## What I Learned
+
+- Building a REST API with Express
+- Authenticating users with JWT
+- Hashing passwords with bcrypt
+- Connecting React frontend to a backend API using Axios
+- Protecting routes so users can only see their own data
