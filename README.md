@@ -2,6 +2,17 @@
 
 A simple full-stack notes app where users can register, log in, and manage their own notes (create, edit, delete).
 
+## Screenshots
+
+**Login**
+![Login Page](login.png)
+
+**Register**
+![Register Page](register.png)
+
+**Notes Dashboard**
+![Notes Dashboard](dashboard.png)
+
 ## Tech Stack
 
 - **Frontend:** React
